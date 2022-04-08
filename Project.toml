@@ -1,0 +1,7 @@
+name = "ThreadedArrays"
+uuid = "9c11b073-d24e-40a7-a526-c896c0b3583b"
+authors = ["Takafumi Arakaki <aka.tkf@gmail.com> and contributors"]
+version = "0.1.0-DEV"
+
+[compat]
+julia = "1.6"
